@@ -1,4 +1,9 @@
 extends layout
 
+include session
+
 block content
   h1 Schedule
+  div
+    for session in data
+      +session(session)

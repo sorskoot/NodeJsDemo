@@ -8,8 +8,12 @@
     - about
     - API
 
-#Episode X#
+#Episode 3#
+- Adding Data
 - Pug
+
+#Episode X#
+
 - Sass
     - twitter bootstrap
     - node-sass
