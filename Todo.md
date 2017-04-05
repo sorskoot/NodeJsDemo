@@ -12,10 +12,14 @@
 - Adding Data
 - Pug
 
-#Episode X#
+#episode 4#
+- HTTPS
 
+#Episode 5#
 - Sass
     - twitter bootstrap
     - node-sass
+
+#Episode X#
 - JavaScript   
     - Ajax Calls
